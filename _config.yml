@@ -1,6 +1,6 @@
 title: PATCHARAMAI HUAJAIPET
-#logo: /assets/img/profile.jpg
-#description: text below image
-#show_downloads: true
+logo: /assets/img/Profile.jpg
+description: text below image
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
