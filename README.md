@@ -2,10 +2,9 @@
 
 # 💫 About Me:
 Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in **Nanoscience and nanotechnology**, **Faculty of Science**,  **Chiang Mai University**, **Thailand**.
-
 I am curently do the research at the Division of Applied Chemistry, Graduate School of Engineering, The University of Osaka, Japan 
 
-**Live site:** https://Patcharamai_H.github.io  
+**Live site:** (https://Patcharamai_H.github.io) 
 ---
 ## 📞 Contact 
 - 📱 +66 80853 7089 (working hours)
@@ -15,8 +14,6 @@ I am curently do the research at the Division of Applied Chemistry, Graduate Sch
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Patcharamai Huajaipet](https://www.facebook.com/share/17keFbSecE/?mibextid=wwXIfr)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/_Chompoo_](https://www.instagram.com/_chompooo_?igsh=djR4M3A3cncwa2M0&utm_source=qr)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Patchramai Huajaipet](https://www.linkedin.com/in/patcharamai-huajaipet-323a45256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patcharamai_h@cmu.ac.th) 
 ---
-
-# PhD student Nanoscience and nanotechnology, Faculty of Science, Chiang Mai University, Thailand.
 
 ## 🎓 Education
 Bsc. Environmental Science 2019-2023
@@ -39,12 +36,9 @@ PhD. Nanoscience and nanotechnology 2023-present
 - National Runner-Up CWIE 2023
 
 ## ⚗️ Work Experience 
-### Trainee @National Nanotechnology Center (NANOTEC)
-2022-2023
+### Trainee @National Nanotechnology Center (NANOTEC) 2022-2023
 - Environmental Nanotechnology research team
-
-### Co-project @National Nanotechnology Center (NANOTEC)
-2023
+### Co-project @National Nanotechnology Center (NANOTEC) 2023
 - Environmental Nanotechnology research team
 
 ### 🔬 Research experience 
@@ -52,7 +46,6 @@ PhD. Nanoscience and nanotechnology 2023-present
 - Development of air filter by porous glass filter coated with Nano Titanium dioxide 2021-2022
 - The Photocatalytic of titanium dioxide immobilized on the porous clay beads for air purification 2022-2023
 - Development of Ti-based metal-organic frameworks composite photocatalysts for organic chemical synthesis2023-Present 
-
 
 
 ## 📄 Publications
