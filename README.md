@@ -16,21 +16,21 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 --
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([[https://facebook.com/Patcharamai Huajaipet](https://www.facebook.com/share/17keFbSecE/?mibextid=wwXIfr)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/_chompooo_?igsh=djR4M3A3cncwa2M0&utm_source=qr] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/patcharamai-huajaipet-323a45256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patcharamai_h@cmu.ac.th) 
+dddddddddddddddddddddd
 
 ---
 
 ## 🎓 Education
 - Bsc. Environmental Science (2019-2023)
 - PhD. Nanoscience and nanotechnology (2023-present)
----
+
 
 ## 💸 Scholarships
 - 2019-2022 the Junior Science Talent Project (JSTP-SCB student scholarship), funded by the National Science and Technology Development Agency (NSTDA) and         The Siam Commercial Bank.
 - 2020 Quality Youth Scholarship
 - 2023-Present Presidential Scholarship (CMU-PS) funded by Chiang Mai University
 - 2025-2026 JASSO long-term student invitation program, funded by Japan Student Services Organization
------
+
 
 ## 📃 Certified 
 - CEFR: B2 (Upper-intermediate)
@@ -51,7 +51,6 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 
 ### Trainee @National Nanotechnology Center (NANOTEC) 2022-2023
 - Environmental Nanotechnology research team
-
 ### Co-project @National Nanotechnology Center (NANOTEC) 2023
 - Environmental Nanotechnology research team
 
