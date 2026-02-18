@@ -1,4 +1,4 @@
-# PATCHARAMAI  HUAJAIPET -- ## CHOMPOO
+# PATCHARAMAI  HUAJAIPET -- CHOMPOO
 
 # 💫 About Me:
 Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscience and nanotechnology, Faculty of Science, Chiang Mai University, Thailand.
@@ -16,7 +16,7 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17keFbSecE/?mibextid=wwXIfr) Patcharamai Huajaipet
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17keFbSecE/?mibextid=wwXIfr) **Patcharamai Huajaipet**
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_chompooo_?igsh=djR4M3A3cncwa2M0&utm_source=qr) ___Chompooo___
 
@@ -63,6 +63,7 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 
 ### Trainee @National Nanotechnology Center (NANOTEC) 2022-2023
 - Environmental Nanotechnology research team
+
 ### Co-project @National Nanotechnology Center (NANOTEC) 2023
 - Environmental Nanotechnology research team
 
