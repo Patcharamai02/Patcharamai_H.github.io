@@ -76,11 +76,11 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 
 ### ICESA2022 Proceeding paper
 -  Development of Air Filter by Porous Glass Filter Coated With Nano Titanium Dioxide
-    - [(10.11159/icesa22.127)]
+    - [Link Text](10.11159/icesa22.127)
 
 ### Analysis experiment data
 - Green preparation of tertiary-phase titanium oxide nanopowder using Chlorella sp. aqueous extract
-    - [(https://doi.org/10.1016/j.apt.2024.104552)]
+    - [Link Text](https://doi.org/10.1016/j.apt.2024.104552)
 
 ---
 
