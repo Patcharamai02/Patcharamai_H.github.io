@@ -1,6 +1,7 @@
 logo: /assets/img/Profile45.jpg
 title: PATCHARAMAI HUAJAIPET
-description: text below image
+
+description:  PhD student, Nanoscience and nanotechnology 
 show_downloads: true
-google_analytics:
+#google_analytics:
 theme: jekyll-theme-minimal
