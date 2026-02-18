@@ -18,11 +18,11 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/17keFbSecE/?mibextid=wwXIfr) Patcharamai Huajaipet
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_chompooo_?igsh=djR4M3A3cncwa2M0&utm_source=qr) [_Chompooo_]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_chompooo_?igsh=djR4M3A3cncwa2M0&utm_source=qr) ___Chompooo___
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patcharamai-huajaipet-323a45256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Patcharamai Huajaipet
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patcharamai-huajaipet-323a45256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) **Patcharamai Huajaipet**
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patcharamai_h@cmu.ac.th) patcharamai_h@cmu.ac.th
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patcharamai_h@cmu.ac.th) **patcharamai_h@cmu.ac.th**
 
 # 💻 Designs:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
