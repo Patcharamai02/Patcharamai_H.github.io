@@ -3,6 +3,8 @@
 # 💫 About Me:
 Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscience and nanotechnology, Faculty of Science, Chiang Mai University, Thailand.
 
+https://patcharamai02.github.io/Patcharamai_H.github.io/
+
 🌎 I am currently doing research at the Division of Applied Chemistry, Graduate School of Engineering, The University of Osaka, Japan 
 
 ---
@@ -11,6 +13,7 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 - 📱 +66 80853 7089 (Working hours GMT+7)
 - 📱 070 8973 7839 (Working hours GMT+9)
 - 🏠 501/17 Pathan St., Chiang Mai, Thailand
+- 🏨レオパレス21 303号, 4-7-9 豊川, 茨木市, 大阪府 567-0057
 - 📮 patcharamai_h@cmu.ac.th, tpatcharamai@gmail.com
 
 
@@ -88,10 +91,20 @@ Personal academic website for **PATCHARAMAI HUAJAIPET**, PhD student in Nanoscie
 ---
 
 ## 🔎 Research interests 
-- Photocatalyst for environmental remediation (air/water purification)
+- Photocatalyst for environmental remediation (air/water purification and CO₂ reduction)
+- Metal-organic frameworks for H₂ production
 - Photocatalyst for organic chemical synthesis
 - Nano/nanohybrid material
 - Composite materials
+
+---
+
+## 📣 Upcoming events 
+- Oral presentation: Development of FeVO₄/NH₂-MIL-125(Ti) Heterostructure for Photocatalytic Reduction of Nitrobenzene and H₂ Evolution Applications @ International Conference on Engineering and Innovative Materials (ICEIM 2026) 5-7 August 2026
+- Menuscript preparing: Double-Solvent Method to Ni²⁺@NH₂-MIL-125(Ti) for Visible-light-driven Hydrogenation of Nitrobenzene to Aniline and Hydrogen Evolution from Water Splitting.
+- Menuscript preparing: Fabrication of Iron Vanadate/Amine-Functionalized Ti-MOFs Heterojunction Photocatalysts for Nitrobenzene reduction
+
+---
 
 ---
 ### 📝 References
